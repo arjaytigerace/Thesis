@@ -1,2 +1,2 @@
 # Thesis
-My Final Capstone for BSIT
+Cornelio and Tima-an Final Capstone Project
